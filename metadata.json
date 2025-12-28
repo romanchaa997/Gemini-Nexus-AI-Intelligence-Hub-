@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Nexus - AI Intelligence Hub",
+  "description": "A sophisticated AI companion for text analysis, image generation, and data visualization, inspired by high-end copilot interfaces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
